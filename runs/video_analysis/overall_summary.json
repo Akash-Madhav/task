@@ -1,0 +1,847 @@
+{
+  "651E7436-32CC-4199-B230-15530C28822D-export.avi": {
+    "video_name": "651E7436-32CC-4199-B230-15530C28822D-export.avi",
+    "video_duration_seconds": 30.0,
+    "total_frames": 900,
+    "analyzed_frames": 450,
+    "frames_with_detections": 266,
+    "classes_detected": [
+      "F",
+      "D",
+      "E",
+      "G",
+      "C",
+      "A",
+      "B",
+      "J"
+    ],
+    "classes_summary": {
+      "F": {
+        "detection_count": 186,
+        "frame_presence_pct": 41.33,
+        "avg_confidence": 0.4735,
+        "max_confidence": 0.781,
+        "first_seen_time": "00:02.27",
+        "last_seen_time": "00:29.46"
+      },
+      "D": {
+        "detection_count": 93,
+        "frame_presence_pct": 20.67,
+        "avg_confidence": 0.4758,
+        "max_confidence": 0.7189,
+        "first_seen_time": "00:02.87",
+        "last_seen_time": "00:29.19"
+      },
+      "E": {
+        "detection_count": 78,
+        "frame_presence_pct": 17.33,
+        "avg_confidence": 0.5106,
+        "max_confidence": 0.9512,
+        "first_seen_time": "00:02.27",
+        "last_seen_time": "00:29.32"
+      },
+      "G": {
+        "detection_count": 45,
+        "frame_presence_pct": 10.0,
+        "avg_confidence": 0.4469,
+        "max_confidence": 0.6533,
+        "first_seen_time": "00:03.06",
+        "last_seen_time": "00:27.19"
+      },
+      "C": {
+        "detection_count": 38,
+        "frame_presence_pct": 8.44,
+        "avg_confidence": 0.4621,
+        "max_confidence": 0.6712,
+        "first_seen_time": "00:02.33",
+        "last_seen_time": "00:28.67"
+      },
+      "A": {
+        "detection_count": 15,
+        "frame_presence_pct": 3.33,
+        "avg_confidence": 0.5371,
+        "max_confidence": 0.8669,
+        "first_seen_time": "00:02.33",
+        "last_seen_time": "00:19.67"
+      },
+      "B": {
+        "detection_count": 3,
+        "frame_presence_pct": 0.67,
+        "avg_confidence": 0.3885,
+        "max_confidence": 0.4534,
+        "first_seen_time": "00:09.40",
+        "last_seen_time": "00:28.19"
+      },
+      "J": {
+        "detection_count": 3,
+        "frame_presence_pct": 0.67,
+        "avg_confidence": 0.7692,
+        "max_confidence": 0.9226,
+        "first_seen_time": "00:29.80",
+        "last_seen_time": "00:29.92"
+      }
+    },
+    "active_intervals": [
+      {
+        "class": "F",
+        "start": "00:02.27",
+        "end": "00:02.33",
+        "max_confidence": 0.6378
+      },
+      {
+        "class": "F",
+        "start": "00:02.47",
+        "end": "00:03.39",
+        "max_confidence": 0.7766
+      },
+      {
+        "class": "G",
+        "start": "00:03.60",
+        "end": "00:03.67",
+        "max_confidence": 0.4193
+      },
+      {
+        "class": "F",
+        "start": "00:03.87",
+        "end": "00:04.07",
+        "max_confidence": 0.483
+      },
+      {
+        "class": "F",
+        "start": "00:04.26",
+        "end": "00:04.33",
+        "max_confidence": 0.3751
+      },
+      {
+        "class": "G",
+        "start": "00:04.46",
+        "end": "00:04.53",
+        "max_confidence": 0.5175
+      },
+      {
+        "class": "F",
+        "start": "00:04.59",
+        "end": "00:04.92",
+        "max_confidence": 0.48
+      },
+      {
+        "class": "F",
+        "start": "00:05.46",
+        "end": "00:05.67",
+        "max_confidence": 0.4161
+      },
+      {
+        "class": "F",
+        "start": "00:06.00",
+        "end": "00:06.12",
+        "max_confidence": 0.5937
+      },
+      {
+        "class": "D",
+        "start": "00:06.46",
+        "end": "00:06.53",
+        "max_confidence": 0.4106
+      },
+      {
+        "class": "F",
+        "start": "00:06.92",
+        "end": "00:07.07",
+        "max_confidence": 0.7196
+      },
+      {
+        "class": "D",
+        "start": "00:07.12",
+        "end": "00:07.26",
+        "max_confidence": 0.5726
+      },
+      {
+        "class": "F",
+        "start": "00:07.33",
+        "end": "00:07.40",
+        "max_confidence": 0.5374
+      },
+      {
+        "class": "F",
+        "start": "00:07.53",
+        "end": "00:07.59",
+        "max_confidence": 0.6747
+      },
+      {
+        "class": "C",
+        "start": "00:07.67",
+        "end": "00:07.87",
+        "max_confidence": 0.5957
+      },
+      {
+        "class": "D",
+        "start": "00:08.13",
+        "end": "00:08.26",
+        "max_confidence": 0.457
+      },
+      {
+        "class": "E",
+        "start": "00:09.13",
+        "end": "00:09.26",
+        "max_confidence": 0.7499
+      },
+      {
+        "class": "E",
+        "start": "00:09.40",
+        "end": "00:10.07",
+        "max_confidence": 0.7888
+      },
+      {
+        "class": "G",
+        "start": "00:10.13",
+        "end": "00:10.26",
+        "max_confidence": 0.6228
+      },
+      {
+        "class": "F",
+        "start": "00:10.33",
+        "end": "00:10.40",
+        "max_confidence": 0.3845
+      },
+      {
+        "class": "G",
+        "start": "00:10.67",
+        "end": "00:10.86",
+        "max_confidence": 0.6408
+      },
+      {
+        "class": "D",
+        "start": "00:10.92",
+        "end": "00:11.00",
+        "max_confidence": 0.5648
+      },
+      {
+        "class": "F",
+        "start": "00:11.07",
+        "end": "00:11.13",
+        "max_confidence": 0.7018
+      },
+      {
+        "class": "F",
+        "start": "00:11.26",
+        "end": "00:11.59",
+        "max_confidence": 0.7197
+      },
+      {
+        "class": "E",
+        "start": "00:11.67",
+        "end": "00:11.86",
+        "max_confidence": 0.5666
+      },
+      {
+        "class": "F",
+        "start": "00:11.92",
+        "end": "00:12.13",
+        "max_confidence": 0.781
+      },
+      {
+        "class": "E",
+        "start": "00:12.67",
+        "end": "00:12.73",
+        "max_confidence": 0.5534
+      },
+      {
+        "class": "G",
+        "start": "00:13.00",
+        "end": "00:13.07",
+        "max_confidence": 0.5823
+      },
+      {
+        "class": "F",
+        "start": "00:13.33",
+        "end": "00:13.40",
+        "max_confidence": 0.5739
+      },
+      {
+        "class": "D",
+        "start": "00:13.59",
+        "end": "00:13.73",
+        "max_confidence": 0.5681
+      },
+      {
+        "class": "F",
+        "start": "00:14.00",
+        "end": "00:14.19",
+        "max_confidence": 0.4344
+      },
+      {
+        "class": "F",
+        "start": "00:14.47",
+        "end": "00:14.52",
+        "max_confidence": 0.6396
+      },
+      {
+        "class": "D",
+        "start": "00:14.59",
+        "end": "00:14.86",
+        "max_confidence": 0.5534
+      },
+      {
+        "class": "F",
+        "start": "00:14.92",
+        "end": "00:15.19",
+        "max_confidence": 0.5786
+      },
+      {
+        "class": "D",
+        "start": "00:15.52",
+        "end": "00:15.86",
+        "max_confidence": 0.6956
+      },
+      {
+        "class": "C",
+        "start": "00:16.00",
+        "end": "00:16.07",
+        "max_confidence": 0.5976
+      },
+      {
+        "class": "C",
+        "start": "00:17.19",
+        "end": "00:17.46",
+        "max_confidence": 0.6712
+      },
+      {
+        "class": "D",
+        "start": "00:17.53",
+        "end": "00:17.67",
+        "max_confidence": 0.4701
+      },
+      {
+        "class": "F",
+        "start": "00:17.73",
+        "end": "00:17.87",
+        "max_confidence": 0.7737
+      },
+      {
+        "class": "F",
+        "start": "00:18.00",
+        "end": "00:18.12",
+        "max_confidence": 0.6559
+      },
+      {
+        "class": "E",
+        "start": "00:18.73",
+        "end": "00:18.80",
+        "max_confidence": 0.7328
+      },
+      {
+        "class": "A",
+        "start": "00:19.12",
+        "end": "00:19.67",
+        "max_confidence": 0.8669
+      },
+      {
+        "class": "F",
+        "start": "00:19.92",
+        "end": "00:20.19",
+        "max_confidence": 0.7395
+      },
+      {
+        "class": "D",
+        "start": "00:20.39",
+        "end": "00:20.53",
+        "max_confidence": 0.5267
+      },
+      {
+        "class": "F",
+        "start": "00:20.60",
+        "end": "00:20.87",
+        "max_confidence": 0.6717
+      },
+      {
+        "class": "D",
+        "start": "00:20.92",
+        "end": "00:21.00",
+        "max_confidence": 0.5791
+      },
+      {
+        "class": "C",
+        "start": "00:21.12",
+        "end": "00:22.00",
+        "max_confidence": 0.6635
+      },
+      {
+        "class": "F",
+        "start": "00:22.19",
+        "end": "00:22.46",
+        "max_confidence": 0.478
+      },
+      {
+        "class": "F",
+        "start": "00:22.67",
+        "end": "00:22.80",
+        "max_confidence": 0.4624
+      },
+      {
+        "class": "D",
+        "start": "00:22.87",
+        "end": "00:22.92",
+        "max_confidence": 0.4372
+      },
+      {
+        "class": "F",
+        "start": "00:23.39",
+        "end": "00:23.46",
+        "max_confidence": 0.4925
+      },
+      {
+        "class": "C",
+        "start": "00:23.73",
+        "end": "00:24.39",
+        "max_confidence": 0.4916
+      },
+      {
+        "class": "F",
+        "start": "00:24.53",
+        "end": "00:24.60",
+        "max_confidence": 0.356
+      },
+      {
+        "class": "E",
+        "start": "00:25.12",
+        "end": "00:25.32",
+        "max_confidence": 0.7393
+      },
+      {
+        "class": "D",
+        "start": "00:25.39",
+        "end": "00:25.67",
+        "max_confidence": 0.6502
+      },
+      {
+        "class": "F",
+        "start": "00:25.73",
+        "end": "00:25.87",
+        "max_confidence": 0.6827
+      },
+      {
+        "class": "E",
+        "start": "00:27.19",
+        "end": "00:27.53",
+        "max_confidence": 0.9512
+      },
+      {
+        "class": "B",
+        "start": "00:28.12",
+        "end": "00:28.19",
+        "max_confidence": 0.3599
+      },
+      {
+        "class": "E",
+        "start": "00:28.73",
+        "end": "00:28.92",
+        "max_confidence": 0.4427
+      },
+      {
+        "class": "D",
+        "start": "00:29.12",
+        "end": "00:29.19",
+        "max_confidence": 0.6694
+      },
+      {
+        "class": "E",
+        "start": "00:29.26",
+        "end": "00:29.32",
+        "max_confidence": 0.4942
+      },
+      {
+        "class": "J",
+        "start": "00:29.80",
+        "end": "00:29.92",
+        "max_confidence": 0.9226
+      }
+    ]
+  },
+  "AC31273A-560E-487E-8635-E63BF54CF224-export.avi": {
+    "video_name": "AC31273A-560E-487E-8635-E63BF54CF224-export.avi",
+    "video_duration_seconds": 120.0,
+    "total_frames": 3600,
+    "analyzed_frames": 1800,
+    "frames_with_detections": 428,
+    "classes_detected": [
+      "F",
+      "J",
+      "D",
+      "G",
+      "Z",
+      "B",
+      "A",
+      "E",
+      "C"
+    ],
+    "classes_summary": {
+      "F": {
+        "detection_count": 128,
+        "frame_presence_pct": 7.11,
+        "avg_confidence": 0.4657,
+        "max_confidence": 0.7932,
+        "first_seen_time": "00:20.80",
+        "last_seen_time": "01:44.12"
+      },
+      "J": {
+        "detection_count": 118,
+        "frame_presence_pct": 6.56,
+        "avg_confidence": 0.8612,
+        "max_confidence": 0.9475,
+        "first_seen_time": "00:36.32",
+        "last_seen_time": "01:05.20"
+      },
+      "D": {
+        "detection_count": 97,
+        "frame_presence_pct": 5.39,
+        "avg_confidence": 0.444,
+        "max_confidence": 0.7308,
+        "first_seen_time": "00:23.39",
+        "last_seen_time": "01:43.46"
+      },
+      "G": {
+        "detection_count": 71,
+        "frame_presence_pct": 3.94,
+        "avg_confidence": 0.4444,
+        "max_confidence": 0.6542,
+        "first_seen_time": "00:20.26",
+        "last_seen_time": "01:44.12"
+      },
+      "Z": {
+        "detection_count": 41,
+        "frame_presence_pct": 2.28,
+        "avg_confidence": 0.4634,
+        "max_confidence": 0.5501,
+        "first_seen_time": "00:55.00",
+        "last_seen_time": "00:57.67"
+      },
+      "B": {
+        "detection_count": 38,
+        "frame_presence_pct": 2.11,
+        "avg_confidence": 0.4064,
+        "max_confidence": 0.4877,
+        "first_seen_time": "00:55.00",
+        "last_seen_time": "00:57.67"
+      },
+      "A": {
+        "detection_count": 23,
+        "frame_presence_pct": 1.28,
+        "avg_confidence": 0.7333,
+        "max_confidence": 0.9019,
+        "first_seen_time": "00:00.13",
+        "last_seen_time": "00:26.26"
+      },
+      "E": {
+        "detection_count": 6,
+        "frame_presence_pct": 0.33,
+        "avg_confidence": 0.4535,
+        "max_confidence": 0.5223,
+        "first_seen_time": "00:30.92",
+        "last_seen_time": "00:58.00"
+      },
+      "C": {
+        "detection_count": 5,
+        "frame_presence_pct": 0.28,
+        "avg_confidence": 0.4897,
+        "max_confidence": 0.6399,
+        "first_seen_time": "00:29.60",
+        "last_seen_time": "01:05.32"
+      }
+    },
+    "active_intervals": [
+      {
+        "class": "F",
+        "start": "00:20.80",
+        "end": "00:21.26",
+        "max_confidence": 0.5148
+      },
+      {
+        "class": "F",
+        "start": "00:21.39",
+        "end": "00:22.12",
+        "max_confidence": 0.6679
+      },
+      {
+        "class": "G",
+        "start": "00:23.32",
+        "end": "00:23.39",
+        "max_confidence": 0.4764
+      },
+      {
+        "class": "D",
+        "start": "00:23.46",
+        "end": "00:24.00",
+        "max_confidence": 0.5319
+      },
+      {
+        "class": "G",
+        "start": "00:24.12",
+        "end": "00:24.53",
+        "max_confidence": 0.5614
+      },
+      {
+        "class": "F",
+        "start": "00:24.60",
+        "end": "00:24.80",
+        "max_confidence": 0.5231
+      },
+      {
+        "class": "A",
+        "start": "00:24.87",
+        "end": "00:26.26",
+        "max_confidence": 0.9019
+      },
+      {
+        "class": "D",
+        "start": "00:26.80",
+        "end": "00:27.12",
+        "max_confidence": 0.4485
+      },
+      {
+        "class": "D",
+        "start": "00:27.73",
+        "end": "00:29.19",
+        "max_confidence": 0.5157
+      },
+      {
+        "class": "D",
+        "start": "00:31.26",
+        "end": "00:31.73",
+        "max_confidence": 0.719
+      },
+      {
+        "class": "F",
+        "start": "00:31.80",
+        "end": "00:32.13",
+        "max_confidence": 0.4209
+      },
+      {
+        "class": "D",
+        "start": "00:32.46",
+        "end": "00:32.67",
+        "max_confidence": 0.5824
+      },
+      {
+        "class": "D",
+        "start": "00:33.20",
+        "end": "00:33.67",
+        "max_confidence": 0.6127
+      },
+      {
+        "class": "G",
+        "start": "00:34.13",
+        "end": "00:34.20",
+        "max_confidence": 0.4209
+      },
+      {
+        "class": "G",
+        "start": "00:34.60",
+        "end": "00:34.72",
+        "max_confidence": 0.5812
+      },
+      {
+        "class": "D",
+        "start": "00:34.79",
+        "end": "00:35.00",
+        "max_confidence": 0.4874
+      },
+      {
+        "class": "J",
+        "start": "00:36.32",
+        "end": "00:38.53",
+        "max_confidence": 0.8728
+      },
+      {
+        "class": "F",
+        "start": "00:41.00",
+        "end": "00:41.46",
+        "max_confidence": 0.4197
+      },
+      {
+        "class": "F",
+        "start": "00:41.67",
+        "end": "00:41.92",
+        "max_confidence": 0.6742
+      },
+      {
+        "class": "F",
+        "start": "00:42.20",
+        "end": "00:43.00",
+        "max_confidence": 0.557
+      },
+      {
+        "class": "F",
+        "start": "00:43.53",
+        "end": "00:43.79",
+        "max_confidence": 0.6898
+      },
+      {
+        "class": "D",
+        "start": "00:44.46",
+        "end": "00:44.53",
+        "max_confidence": 0.4553
+      },
+      {
+        "class": "F",
+        "start": "00:44.79",
+        "end": "00:44.92",
+        "max_confidence": 0.5398
+      },
+      {
+        "class": "G",
+        "start": "00:45.39",
+        "end": "00:45.46",
+        "max_confidence": 0.5238
+      },
+      {
+        "class": "F",
+        "start": "00:48.20",
+        "end": "00:48.27",
+        "max_confidence": 0.5766
+      },
+      {
+        "class": "G",
+        "start": "00:48.46",
+        "end": "00:48.60",
+        "max_confidence": 0.6535
+      },
+      {
+        "class": "D",
+        "start": "00:48.86",
+        "end": "00:49.20",
+        "max_confidence": 0.5475
+      },
+      {
+        "class": "J",
+        "start": "00:50.07",
+        "end": "00:50.13",
+        "max_confidence": 0.4677
+      },
+      {
+        "class": "F",
+        "start": "00:52.60",
+        "end": "00:54.60",
+        "max_confidence": 0.7932
+      },
+      {
+        "class": "Z",
+        "start": "00:55.13",
+        "end": "00:55.27",
+        "max_confidence": 0.4966
+      },
+      {
+        "class": "Z",
+        "start": "00:55.39",
+        "end": "00:57.60",
+        "max_confidence": 0.5501
+      },
+      {
+        "class": "F",
+        "start": "00:58.20",
+        "end": "00:58.27",
+        "max_confidence": 0.5679
+      },
+      {
+        "class": "D",
+        "start": "00:58.72",
+        "end": "00:58.79",
+        "max_confidence": 0.7083
+      },
+      {
+        "class": "D",
+        "start": "00:59.13",
+        "end": "00:59.20",
+        "max_confidence": 0.5274
+      },
+      {
+        "class": "J",
+        "start": "00:59.79",
+        "end": "01:05.20",
+        "max_confidence": 0.9475
+      },
+      {
+        "class": "D",
+        "start": "01:05.73",
+        "end": "01:06.20",
+        "max_confidence": 0.7308
+      },
+      {
+        "class": "F",
+        "start": "01:06.53",
+        "end": "01:07.46",
+        "max_confidence": 0.5587
+      },
+      {
+        "class": "D",
+        "start": "01:07.73",
+        "end": "01:08.32",
+        "max_confidence": 0.5497
+      },
+      {
+        "class": "F",
+        "start": "01:20.32",
+        "end": "01:20.46",
+        "max_confidence": 0.3722
+      },
+      {
+        "class": "F",
+        "start": "01:21.59",
+        "end": "01:22.79",
+        "max_confidence": 0.437
+      },
+      {
+        "class": "F",
+        "start": "01:23.26",
+        "end": "01:23.40",
+        "max_confidence": 0.4983
+      },
+      {
+        "class": "F",
+        "start": "01:24.79",
+        "end": "01:25.73",
+        "max_confidence": 0.5841
+      },
+      {
+        "class": "G",
+        "start": "01:26.26",
+        "end": "01:26.32",
+        "max_confidence": 0.5825
+      },
+      {
+        "class": "G",
+        "start": "01:26.53",
+        "end": "01:26.87",
+        "max_confidence": 0.5735
+      },
+      {
+        "class": "G",
+        "start": "01:27.67",
+        "end": "01:27.73",
+        "max_confidence": 0.4961
+      },
+      {
+        "class": "G",
+        "start": "01:37.59",
+        "end": "01:38.06",
+        "max_confidence": 0.6048
+      },
+      {
+        "class": "G",
+        "start": "01:39.87",
+        "end": "01:40.00",
+        "max_confidence": 0.5818
+      },
+      {
+        "class": "D",
+        "start": "01:43.26",
+        "end": "01:43.46",
+        "max_confidence": 0.3625
+      },
+      {
+        "class": "G",
+        "start": "01:44.00",
+        "end": "01:44.06",
+        "max_confidence": 0.4396
+      }
+    ]
+  }
+}

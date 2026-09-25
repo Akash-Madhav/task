@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 17
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'J', 'K', 'L', 'O', 'P', 'T', 'U', 'V', 'Z']
+
+roboflow:
+  workspace: akash-madhav-y
+  project: my-first-project-aciiq
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/akash-madhav-y/my-first-project-aciiq/1
