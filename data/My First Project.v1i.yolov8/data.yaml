@@ -1,6 +1,7 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+path: C:/Users/akash/task/data/My First Project.v1i.yolov8
+train: train/images
+val: valid/images
+test: test/images
 
 nc: 17
 names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'J', 'K', 'L', 'O', 'P', 'T', 'U', 'V', 'Z']

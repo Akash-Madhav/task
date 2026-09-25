@@ -1,0 +1,81 @@
+{
+  "model": "C:\\Users\\akash\\task\\models\\best.pt",
+  "split": "test",
+  "overall_metrics": {
+    "mAP50": 0.6001,
+    "mAP50_95": 0.4205,
+    "precision": 0.7152,
+    "recall": 0.4646,
+    "fitness": 0.4205
+  },
+  "speed_ms": {
+    "preprocess": 2.6577333333296425,
+    "inference": 14.973928571418497,
+    "loss": 0.0005619047095976947,
+    "postprocess": 1.1573666666836722
+  },
+  "fps": 53.2,
+  "per_class_metrics": {
+    "A": {
+      "precision": 1.0,
+      "recall": 0.7138,
+      "map50": 0.8295,
+      "map50_95": 0.543
+    },
+    "B": {
+      "precision": 0.9347,
+      "recall": 0.6667,
+      "map50": 0.7723,
+      "map50_95": 0.5603
+    },
+    "C": {
+      "precision": 0.9018,
+      "recall": 0.6667,
+      "map50": 0.8289,
+      "map50_95": 0.5628
+    },
+    "D": {
+      "precision": 0.8787,
+      "recall": 0.6,
+      "map50": 0.737,
+      "map50_95": 0.4926
+    },
+    "E": {
+      "precision": 0.3811,
+      "recall": 0.6667,
+      "map50": 0.5405,
+      "map50_95": 0.3678
+    },
+    "F": {
+      "precision": 0.2908,
+      "recall": 0.4,
+      "map50": 0.3338,
+      "map50_95": 0.2048
+    },
+    "G": {
+      "precision": 0.7646,
+      "recall": 0.9325,
+      "map50": 0.9639,
+      "map50_95": 0.5788
+    },
+    "H": {
+      "precision": 1.0,
+      "recall": 0.0,
+      "map50": 0.995,
+      "map50_95": 0.8955
+    },
+    "T": {
+      "precision": 1.0,
+      "recall": 0.0,
+      "map50": 0.0,
+      "map50_95": 0.0
+    },
+    "V": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "map50": 0.0,
+      "map50_95": 0.0
+    }
+  },
+  "plots_directory": "C:\\Users\\akash\\task\\runs\\detect\\runs\\evaluation\\eval_test-3"
+}

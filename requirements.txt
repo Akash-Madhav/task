@@ -1,0 +1,22 @@
+# Alphabet Vision & Detection System Dependencies
+# Compatible with Python 3.10, 3.11, 3.12, 3.13, 3.14
+
+# Computer Vision & GUI
+customtkinter>=6.0.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+darkdetect>=0.8.0
+
+# Deep Learning & Object Detection
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific & Data Utilities
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+pyyaml>=6.0
+
+# Windows System & Audio Announcements (Optional for Voice)
+pywin32>=306
